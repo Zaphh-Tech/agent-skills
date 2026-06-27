@@ -5,7 +5,7 @@ Elite offensive security skills for Claude Code. Built for bug bounty hunters, p
 ## Install
 
 ```bash
-npx -y skills add mutemasterr/agent-skills --skill mutemaster-hunt --agent claude-code
+npx -y skills add Zaphh-Tech/agent-skills --skill mutemaster-hunt --agent claude-code
 ```
 
 ## Skills
