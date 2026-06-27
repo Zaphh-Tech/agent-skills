@@ -318,7 +318,7 @@ curl -X POST https://target.com/api/... \
 
 Load only the one relevant to your current attack domain:
 
-- **`references/owasp-api.md`** — OWASP Top 10 + API Top 10 with 2025 updates (IPv6 SSRF, AWS WAF 8KB bypass, jku hijack, Storm-2372 OAuth, Business Logic Top 10)
+- **`references/owasp-api.md`** — All OWASP lists (latest versions): Web Top 10, API Top 10, LLM Top 10 (2025), Mobile Top 10 (2024), Business Logic Top 10 (2025) — full attack instincts + chain library
 - **`references/steroid-mode.md`** — Zero-Day Steroid Mode: edge-case fuzzing, HTTP smuggling, prototype pollution → RCE, cache poisoning, CORS null origin, subdomain takeover supply chain
 - **`references/web3-hunt.md`** — Web3: 60-sec triage (9 questions), $625M bug class templates, cross-chain exploits, Uniswap V4 hooks, cast/forge/slither
 - **`references/attack-plan.md`** — Full procedures: SSRF, mass assignment, param pollution, GraphQL, JWT, OAuth, CORS, cache deception — all with exact curl commands
